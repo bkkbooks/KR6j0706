@@ -1,0 +1,251 @@
+canonical_identifier: bkk:krp/KR6j0706/v1
+canonical_location: https://kanripo.org/bkk/KR6j0706/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經直解
+  identifiers:
+    alt_id:
+    - X14n0298
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X14/X14n0298.xml
+    old_id: X14n0298
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0706_000.yaml, hash: 'sha256:96ea2578b30dc5def716ab28fc27a17eab508c26ab0d2b8e9f7dee48f26f5823'}
+  - {seq: 1, filename: KR6j0706_001.yaml, hash: 'sha256:f71274ba3d916b970f05f51232b6b1ae9f46af7e822e6ac946817f9d2927935e'}
+  - {seq: 2, filename: KR6j0706_002.yaml, hash: 'sha256:bda8f5a7a79365c02a2ed3598f2aeda7ccc0f8fc72b855acced9cfb6055118f3'}
+  - {seq: 3, filename: KR6j0706_003.yaml, hash: 'sha256:5b21f90d4358b68dc63e638775728c382a2bc2f03e92a74484c5e3f76d67e101'}
+  - {seq: 4, filename: KR6j0706_004.yaml, hash: 'sha256:69413771d66132ad9f60760644ac7ed2150a5b25baa5b3f76eabcd08ced91480'}
+  - {seq: 5, filename: KR6j0706_005.yaml, hash: 'sha256:0cb1fd448d4d8349427196ec185ba00163746bfd6f97b0f90d350fa3a6fbeb87'}
+  - {seq: 6, filename: KR6j0706_006.yaml, hash: 'sha256:080435f500df948435b281a8f79d06109967a7e62f73bbfc516ffee4ad98250d'}
+  - {seq: 7, filename: KR6j0706_007.yaml, hash: 'sha256:7161622931444deead64babda58659d29073ee4def19afe88c60226a91ed2949'}
+  - {seq: 8, filename: KR6j0706_008.yaml, hash: 'sha256:13e858248020ca942d5cc756d3f0186959af10b641ab19ab3669f290b05577d3'}
+  - {seq: 9, filename: KR6j0706_009.yaml, hash: 'sha256:14d8a5cdd46ec58fc4865eef8600295f2c09c179464400234ebba479a1e00384'}
+  - {seq: 10, filename: KR6j0706_010.yaml, hash: 'sha256:2f172c3b8a132f22f9272a8a6734dccb3cd51fd66a4876ede758e2ba08fa4c5d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0706_000.markers.yaml, hash: 'sha256:5d3d7a88f0328479338d6e860bfa26c04bca5daf44013328866fa2c4d455bfc4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0706_001.markers.yaml, hash: 'sha256:42aa8fd10191ae55f35186eb407ba0d161ebe0991ae38b57c9bd8aa728e5b4ba'}
+  - {seq: 2, role: markers, filename: assets/KR6j0706_002.markers.yaml, hash: 'sha256:0e23878c45854212d8a903899e368e4d4f85f65d5097915b4b8b0d443d3451e7'}
+  - {seq: 3, role: markers, filename: assets/KR6j0706_003.markers.yaml, hash: 'sha256:daa7f12254669d07a8404885ded494d719d6234721fa61dd1570cc6b726fb500'}
+  - {seq: 4, role: markers, filename: assets/KR6j0706_004.markers.yaml, hash: 'sha256:64edb87df0e8804ddc9d24876c356e877a3f3738124769e59d1236b53845fe23'}
+  - {seq: 5, role: markers, filename: assets/KR6j0706_005.markers.yaml, hash: 'sha256:2c182f3280c810828fe15901ae6352b9e2e784c0f6c08075a5396cce8d795f4e'}
+  - {seq: 6, role: markers, filename: assets/KR6j0706_006.markers.yaml, hash: 'sha256:cbcc43c35bb58e7818027135dc8d9e07a03075df9437a2d4b82313ebf6cb65cf'}
+  - {seq: 7, role: markers, filename: assets/KR6j0706_007.markers.yaml, hash: 'sha256:2f9bddcc0ff28762eb3877490ccbc9f87f3aecd064af446ac09c8b6bbb6185c8'}
+  - {seq: 8, role: markers, filename: assets/KR6j0706_008.markers.yaml, hash: 'sha256:64fe22ea2ae9752b7d6c49f4284b7887bf6d897bce941e8367d80eccfdecfe52'}
+  - {seq: 9, role: markers, filename: assets/KR6j0706_009.markers.yaml, hash: 'sha256:72a264d3faf494bfc5fb0946073fa59550fc0aaac8a20088e3e8122ce92a833e'}
+  - {seq: 10, role: markers, filename: assets/KR6j0706_010.markers.yaml, hash: 'sha256:1e81c3a40b704638b4163f9229c039c510086492664ccdbb9c6a28b068689773'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 298-A 首楞嚴經直解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-2
+    span:
+    - front
+    - 464
+    - 464
+  label: No. 298-B 首楞嚴經直解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-3
+    span:
+    - front
+    - 972
+    - 972
+  label: No. 298-C 首楞嚴經直贊(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-4
+    span:
+    - front
+    - 1495
+    - 1495
+  label: No. 298-D 首楞嚴經直解略敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-5
+    span:
+    - front
+    - 1503
+    - 1503
+  label: 先定時味
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-6
+    span:
+    - front
+    - 2060
+    - 2060
+  label: 次明綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-7
+    span:
+    - front
+    - 3043
+    - 3043
+  label: 楞嚴經直解凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0706_X_000-mulu-8
+    span:
+    - front
+    - 3363
+    - 3363
+  label: 楞嚴經直解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0706_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 26429
+  label: '大佛頂如來密因修證了義諸菩薩
+
+    萬行首楞嚴經直解卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0706_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 26890
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0706_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 20907
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0706_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 29156
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0706_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 20782
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0706_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 21059
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0706_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 14614
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0706_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 28802
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0706_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 18800
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0706_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 17165
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    直解卷第十'
+  type: juan
+  level: 1
+hash: sha256:cdc0755c7fdb01e6d4a44691c66f93d991395f0abf93c3715680d0e6f71bf621
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
