@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0706_000.yaml, hash: 'sha256:44ba7f9edcad17475b1f372a0793107136fa7cf029c6941120600daf58ed1bd6'}
+  - {seq: 0, filename: KR6j0706_000.yaml, hash: 'sha256:d3fd5428328f38c4eed8637d40b94a7a25ec7b585c05fef58abb1d16d397be8c'}
   - {seq: 1, filename: KR6j0706_001.yaml, hash: 'sha256:d31d2415a5136e83802e348675399f35c6766a0cbb5342db00d9a138c8a5376e'}
   - {seq: 2, filename: KR6j0706_002.yaml, hash: 'sha256:e555e60c19e46548fbd516ba80eff2032d34ffcf692b7b833267edfaecd866c4'}
   - {seq: 3, filename: KR6j0706_003.yaml, hash: 'sha256:1671221565765a3a78f2539b28b15e3b2d134b293f893f1ace66975d645bc9b7'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6j0706_009.yaml, hash: 'sha256:5ffe99db7d3b632013c1aa6f0f285d12fc6d54057d6a46f4238507a239e9bfbd'}
   - {seq: 10, filename: KR6j0706_010.yaml, hash: 'sha256:6b9d037170413dd090a913344ad5a8e4cd6140325e01916ab5634c424ee34f94'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0706_000.markers.yaml, hash: 'sha256:e0a357e8e9e8d330318957702f053917bb742b5f95e93e81f6575b3ff5496db4'}
+  - {seq: 0, role: markers, filename: assets/KR6j0706_000.markers.yaml, hash: 'sha256:86f22cd69b2ec83489635433c338e89204c5f5e1ddaa75b8ccf6e16baeed3561'}
   - {seq: 1, role: markers, filename: assets/KR6j0706_001.markers.yaml, hash: 'sha256:b450e717e36bb58e31aeaeac298a3103510abb6cbf512edd2abf5d576845fce7'}
   - {seq: 2, role: markers, filename: assets/KR6j0706_002.markers.yaml, hash: 'sha256:bc40c38c6ff07a22922fb59a737b3a833831677165f8721b05d528df36ebe58e'}
   - {seq: 3, role: markers, filename: assets/KR6j0706_003.markers.yaml, hash: 'sha256:335320f41e21121d10ec9592024a6a5d3cabecc65881bab9a7f9a2be879a6bb6'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 298-A 首楞嚴經直解序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-2
     span:
-    - front
+    - body
     - 464
     - 464
   label: No. 298-B 首楞嚴經直解序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-3
     span:
-    - front
+    - body
     - 972
     - 972
   label: No. 298-C 首楞嚴經直贊(并序)
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-4
     span:
-    - front
+    - body
     - 1495
     - 1495
   label: No. 298-D 首楞嚴經直解略敘
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-5
     span:
-    - front
+    - body
     - 1503
     - 1503
   label: 先定時味
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-6
     span:
-    - front
+    - body
     - 2060
     - 2060
   label: 次明綱要
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-7
     span:
-    - front
+    - body
     - 3043
     - 3043
   label: 楞嚴經直解凡例
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0706_X_000-mulu-8
     span:
-    - front
+    - body
     - 3363
     - 3363
   label: 楞嚴經直解
@@ -245,7 +245,7 @@ table_of_contents:
     直解卷第十'
   type: juan
   level: 1
-hash: sha256:ae5ec50017369d66fda261398bf0ea212ffeb40fc603e7d018114c3667f708d6
+hash: sha256:6232ca9adbda00a05bf3fd3012375b9b5e45376cb3fe25c6cc75a89b2b98eeda
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
